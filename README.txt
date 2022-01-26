@@ -10,3 +10,4 @@ Script simples para vizualização de animações do GTA V (FiveM) para auxiliar
 *Obs.: algumas animações não funcionam, mas todas elas foram pegas dessa lista: https://alexguirre.github.io/animations-list/
 Se alguma não rodar, apenas avance para a próxima.
 **Obs².: Script para framework vRpex
+***Obs³.: Caso queira pular as animações "bugadas" de cutscenes, mude o v de 0 para 1297.
